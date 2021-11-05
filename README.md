@@ -1,7 +1,10 @@
 # aulasGeneration :man_student:
-Aulas desenvolvidas no bootcamp da Generation Brasil. Desenvolvedor Web Full Stack / 2021
+### Aulas desenvolvidas no bootcamp da Generation Brasil. 
 
-Habilidades Técnicas:
+### Desenvolvedor Web Full Stack Jr.  2021
+
+##### Habilidades Técnicas:
+
 • JAVA - Lógica de programação, POO, Programação Avançada;
 • MySQL - Estrutura de banco de dados;
 • Spring Boot - Introduçao a API REST /REST Full Camadas , relacionamento , security;
@@ -10,7 +13,8 @@ Habilidades Técnicas:
 • GitHub;
 • SCRUM - Metodologia Ágil para trabalhar em equipe de forma rápida e eficaz.
 
-Habilidades Comportamentais:
+##### Habilidades Comportamentais:
+
 • Coordenar e se comunicar com sua equipe e clientes
 • Identificar quando pedir ajuda e quais recursos utilizar
 • Aprender a aprender
