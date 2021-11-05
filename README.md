@@ -1,4 +1,4 @@
-# aulasGeneration
+# aulasGeneration :man_student:
 Aulas desenvolvidas no bootcamp da Generation Brasil. Desenvolvedor Web Full Stack / 2021
 
 Habilidades Técnicas:
