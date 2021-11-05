@@ -1,7 +1,5 @@
 # aulasGeneration
-Aulas desenvolvidas no bootcamp da Generation Brasil.
-
-Desenvolvedor Web Full Stack 2021
+Aulas desenvolvidas no bootcamp da Generation Brasil. Desenvolvedor Web Full Stack / 2021
 
 Habilidades Técnicas:
 • JAVA - Lógica de programação, POO, Programação Avançada;
