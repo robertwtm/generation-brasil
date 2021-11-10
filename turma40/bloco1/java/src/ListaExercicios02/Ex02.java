@@ -26,11 +26,11 @@ public class Ex02 {
 		} else if ((numero2 < numero3) && (numero3 < numero1)) {
 			System.out.println("A ordem crescente: " + numero2 + ", " + numero3 + ", " + numero1);
 		} else if ((numero3 < numero1) && (numero1 < numero2)) {
-			System.out.println("A ordem crescente: " + numero3 + ", " + numero1 + ", " + numero2);	
+			System.out.println("A ordem crescente: " + numero3 + ", " + numero1 + ", " + numero2);
 		} else if ((numero3 < numero2) && (numero2 < numero1)) {
-			System.out.println("A ordem crescente: " + numero3 + ", " + numero2 + ", " + numero1);	
+			System.out.println("A ordem crescente: " + numero3 + ", " + numero2 + ", " + numero1);
 		} else {
 			System.out.println("Tente novamente digitanto um numeros diferentes e inteiros.");
 		}
-	}	
+	}
 }
