@@ -19,6 +19,7 @@ public class Ex04 {
 			System.out.println("Raiz quadrada: " +Math.sqrt(numero)); 
 		} else {
 			System.out.println("Numero Impar!");
+			
 		}
 		
 		
