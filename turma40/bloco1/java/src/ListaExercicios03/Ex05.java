@@ -12,15 +12,15 @@ public class Ex05 {
 		do {
 			System.out.print("Digite um numero: ");
 			numero = scan.nextInt();
-			
+
 			if (numero == 0) {
 				para = 0;
 			} else {
 				soma += numero;
 			}
 		} while (para != 0);
-		
+
 		System.out.println("Soma dos numeros digitados: " + soma);
-		
+
 	}
 }
