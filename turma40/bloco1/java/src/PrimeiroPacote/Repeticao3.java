@@ -11,7 +11,7 @@ public class Repeticao3 {
 		idade = scan.nextInt();
 
 		do {
-			System.out.print("\nSua idade é: " + idade+" anos");
+			System.out.print("\nSua idade é: " + idade + " anos");
 			if (idade >= 18) {
 				System.out.print("\nVoce é de maior");
 			} else {
