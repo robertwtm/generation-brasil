@@ -13,7 +13,7 @@ public class Condicional1 {
 		System.out.print("digite sua idade: ");
 		idade = scan.nextInt();
 		scan.nextLine();
-		System.out.print("digite seu nome");
+		System.out.print("digite seu nome: ");
 		nome = scan.nextLine();
 
 		if (idade >= 18) {
