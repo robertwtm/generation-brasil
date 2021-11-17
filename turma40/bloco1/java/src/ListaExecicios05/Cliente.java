@@ -4,20 +4,19 @@ public class Cliente {
 
 	private String primeiroNome, nomesDoMeio, ultimoNome;
 	private int idade;
-	private boolean tipoDaConta;
-	
+
 	public String nomeCompleto() {
-		String nomeCompleto = primeiroNome+ " "+nomesDoMeio+" "+ultimoNome;
+		String nomeCompleto = primeiroNome + " " + nomesDoMeio + " " + ultimoNome;
 		return nomeCompleto;
 	}
-	
+
 	public int idadePessoa() {
 		int idadePessoa = idade;
 		return idadePessoa;
 	}
-	
-	//Get e Set
-	
+
+	// Get e Set
+
 	public String getPrimeiroNome() {
 		return primeiroNome;
 	}
@@ -49,12 +48,4 @@ public class Cliente {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
-
-	public boolean isTipoDaConta() {
-		return tipoDaConta;
-	}
-
-	public void setTipoDaConta(boolean tipoDaConta) {
-		this.tipoDaConta = tipoDaConta;
-	}	
 }
