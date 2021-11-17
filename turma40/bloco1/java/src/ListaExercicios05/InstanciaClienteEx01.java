@@ -1,11 +1,11 @@
-package ListaExecicios05;
+package ListaExercicios05;
 
 import java.util.Scanner;
 
-public class InstanciaCliente {
+public class InstanciaClienteEx01 {
 	public static void main(String[] args) {
 
-		Cliente cliente1 = new Cliente();
+		ClienteEx01 cliente1 = new ClienteEx01();
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("Digite o primeiro nome: ");
@@ -14,7 +14,7 @@ public class InstanciaCliente {
 		cliente1.setNomesDoMeio(scan.nextLine());
 		System.out.print("Digite o ultimo nome: ");
 		cliente1.setUltimoNome(scan.nextLine());
-		;
+
 		System.out.print("Qual é a tua idade: ");
 		cliente1.setIdade(scan.nextInt());
 

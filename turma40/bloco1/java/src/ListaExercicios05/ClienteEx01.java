@@ -1,6 +1,6 @@
-package ListaExecicios05;
+package ListaExercicios05;
 
-public class Cliente {
+public class ClienteEx01 {
 
 	private String primeiroNome, nomesDoMeio, ultimoNome;
 	private int idade;
