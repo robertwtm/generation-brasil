@@ -1,40 +1,42 @@
--- Atividade 2
+-- Atividade 3
 
--- Crie um banco de dados para um e commerce, onde o sistema trabalhará com as informações dos produtos deste ecommerce. 
-CREATE DATABASE e_comerce;
-USE e_comerce;
+-- Crie um banco de dados para um registro de uma escola, onde o sistema trabalhará com as informações dos estudantes deste registro dessa escola.
+CREATE DATABASE registro_escola;
+USE registro_escola;
 
--- Crie uma tabela produtos e utilizando a habilidade de abstração e determine 8 atributos relevantes dos produtos para se trabalhar com o serviço deste ecommerce.
-CREATE TABLE tb_produto (
-	id_produto INT NOT NULL AUTO_INCREMENT,
+-- Crie uma tabela estudantes e utilizando a habilidade de abstração e determine 5 atributos relevantes dos estudantes para se trabalhar com o serviço dessa escola.
+CREATE TABLE tb_aluno (
+	id_aluno INT NOT NULL AUTO_INCREMENT,
     nome VARCHAR(255) NOT NULL,
     segundo_nome VARCHAR(255) NOT NULL,
-    caracteristicas VARCHAR(255) NOT NULL,
-    tamanho DOUBLE NOT NULL,
-    validade DATE NOT NULL,
-    valor FLOAT NOT NULL,
-    estoque BOOLEAN,
-    promocao BOOLEAN,
-    PRIMARY KEY (id_produto)
+    ano_escolar DOUBLE NOT NULL,
+    nota FLOAT NOT NULL,
+    aprovado BOOLEAN,
+    PRIMARY KEY (id_aluno)
 );
 
 -- Popule esta tabela com até 8 dados;
-INSERT INTO `e_comerce`.`tb_produto` (`nome`, `segundo_nome`, `caracteristicas`, `tamanho`, `validade`, `valor`, `estoque`, `promocao`) 
-VALUES 
-('mesa', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '5000', true, true),
-('cadeira', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '8554', false, false),
-('sofa', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '58742', false, true);
+INSERT INTO `registro_escola`.`tb_aluno` (`nome`, `segundo_nome`, `ano_escolar`, `nota`, `aprovado`) 
+VALUES
+('Robert', 'Tavares', '8', '8.2', true),
+('Bruno', 'Tavares', '8', '5.2', false),
+('Matheus', 'Tavares', '8', '8.9', true),
+('Joice', 'Tavares', '8', '9.2', true),
+('Lema', 'Tavares', '8', '9.2', true),
+('Jucelino', 'Tavares', '8', '9.2', true),
+('Maria', 'Tavares', '8', '9.2', true),
+('Sandra', 'Tavares', '8', '10.02', true);
 
--- Faça um select que retorne os produtos com o valor maior do que 500.
-SELECT * FROM e_comerce.tb_produto where valor > 500;
+-- Faça um select que retorne o/as estudantes  com a nota maior do que 7.
+SELECT * FROM registro_escola.tb_aluno where nota > 7;
 
--- Faça um select que retorne os produtos com o valor menor do que 500.
-SELECT * FROM e_comerce.tb_produto where valor < 500;
+-- Faça um select que retorne o/as estudantes  com a nota menor do que 7.
+SELECT * FROM registro_escola.tb_aluno where nota < 7;
 
 -- Ao término atualize um dado desta tabela através de uma query de atualização.
-UPDATE tb_produto
-SET promocao = FALSE
-WHERE id_produto = 3;
+UPDATE tb_aluno
+SET aprovado = FALSE
+WHERE id_aluno = 2;
 
 -- salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto e coloque no seu GitHuB pessoal e compartilhe esta atividade.
 
