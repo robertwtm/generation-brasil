@@ -1,4 +1,4 @@
-# Atividades referente a Banco de Dados 2 BLOCO:man_student:
+# Atividades referente a Banco de Dados no BLOCO 2:man_student:
 
 ### Atividades desenvolvidas no bootcamp da Generation Brasil 
 
