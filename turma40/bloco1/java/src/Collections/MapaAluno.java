@@ -13,10 +13,5 @@ public class MapaAluno {
 		Aluno c = new Aluno("Renata Almeida", "Sistemas Operacionais", 8.8);
 		Aluno d = new Aluno("Sandra Aparecida", "Internet", 9.8);
 		
-		mapa.put(a);
-		mapa.put(b);
-		mapa.put(c);
-		mapa.put(d);
-		
 	}
 }
