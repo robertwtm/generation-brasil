@@ -22,8 +22,13 @@ CREATE TABLE tb_produto (
 INSERT INTO `e_comerce`.`tb_produto` (`nome`, `segundo_nome`, `caracteristicas`, `tamanho`, `validade`, `valor`, `estoque`, `promocao`) 
 VALUES 
 ('mesa', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '5000', true, true),
-('cadeira', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '8554', false, false),
-('sofa', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '58742', false, true);
+('tv', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '5000', true, true),
+('iphone', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '8554', false, false),
+('fone', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '5000', true, true),
+('carregador', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '8554', false, false),
+('planta', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '5000', true, true),
+('livro', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '8554', false, false),
+('caixa de som', 'azul', 'pode ser usa de banqueta', '158', '2022-10-05', '58742', false, true);
 
 -- Faça um select que retorne os produtos com o valor maior do que 500.
 SELECT * FROM e_comerce.tb_produto where valor > 500;
