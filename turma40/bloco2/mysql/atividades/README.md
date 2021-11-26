@@ -2,7 +2,7 @@
 
 ### Atividades desenvolvidas no bootcamp da Generation Brasil 
 
-### Desenvolvedor Web Full Stack Jr.  2021
+### Desenvolvedor Web Full Stack Jr.
 
 ##### Habilidades Técnicas:
 • MySQL - Estrutura de banco de dados;
