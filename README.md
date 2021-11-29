@@ -1,7 +1,7 @@
 # aulasGeneration :man_student:
 ### Aulas desenvolvidas no bootcamp da Generation Brasil
 
-### Desenvolvedor Web Full Stack Jr.  2021
+### Desenvolvedor Web Full Stack Jr.  2021 / 2022
 
 ##### Habilidades Técnicas:
 
