@@ -13,6 +13,9 @@
 
 [Atividade 2 26/11/2021](https://drive.google.com/file/d/1N-erzVefuRv3nqe8mR0uGY9GzV20I08N/view): [Respostas](https://github.com/robertwtm/generation-brasil/tree/main/turma40/bloco2/mysql/atividades/atividades_de_banco_de_dados_relacional_mysql_26_11_2021)
 
+[Atividade 3 29/11/2021](https://github.com/robertwtm/generation-brasil/blob/main/turma40/bloco2/mysql/atividades/atividades_de_banco_de_dados_relacional_mysql_29_11_2021/Diagramas.png): [Respostas](https://github.com/robertwtm/generation-brasil/tree/main/turma40/bloco2/mysql/atividades/atividades_de_banco_de_dados_relacional_mysql_29_11_2021)
+
+
 
 
 
