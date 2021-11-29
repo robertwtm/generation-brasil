@@ -1,5 +1,5 @@
 -- Atividade de banco de dados relacional Mysql.
--- Atividade 1
+-- Atividade 2
 
 -- Crie um banco de dados para um serviço de pizzaria de uma empresa, o nome do banco
 -- deverá ter o seguinte nome db_pizzaria_legal, onde o sistema trabalhará com as
