@@ -1,8 +1,6 @@
 ## aulasGeneration :man_student:
 Aulas desenvolvidas no bootcamp da Generation Brasil / Desenvolvedor Web Full Stack Jr.  2021 / 2022
 
-<br>
-
 ### Habilidades Técnicas:
 
 • JAVA - Lógica de programação, POO, Programação Avançada;
@@ -18,8 +16,6 @@ Aulas desenvolvidas no bootcamp da Generation Brasil / Desenvolvedor Web Full St
 • GitHub;
 
 • SCRUM - Metodologia Ágil para trabalhar em equipe de forma rápida e eficaz.
-
-<br>
 
 ### Habilidades Comportamentais:
 
