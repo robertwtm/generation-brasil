@@ -17,6 +17,8 @@ Aulas desenvolvidas no bootcamp da Generation Brasil / Desenvolvedor Web Full St
 
 • SCRUM - Metodologia Ágil para trabalhar em equipe de forma rápida e eficaz.
 
+<br>
+
 ### Habilidades Comportamentais:
 
 • Coordenar e se comunicar com sua equipe e clientes
