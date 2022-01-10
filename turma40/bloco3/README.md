@@ -1,0 +1,2 @@
+Nesse bloco você vai aprender tudo o que você precisa saber para construir o front-end de uma aplicação web:
+Abordaremos desde a base, utilizando HTML5 para a marcação do conteúdo, CSS3 para a estilização da página e JavaScript para a interação com o usuário, até a utilização de frameworks como Bootstrap para facilitar a estilização das páginas. Também falaremos sobre Angular, para trabalhar com Single Page Application e modularizar toda a nossa aplicação. No fim de tudo isso vamos realizar o deploy da sua aplicação utilizando a tecnologia Docker.
