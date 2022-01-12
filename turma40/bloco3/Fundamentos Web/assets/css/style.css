@@ -1,3 +1,19 @@
 .texto{
     color: rebeccapurple;
 }
+.menu li{
+ display: inline;   
+}
+body{
+    background-color: black;
+    margin-top: 0px;
+    color: aliceblue;
+}
+.menu{
+    background-color: rgb(246, 191, 119);
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    
+}
